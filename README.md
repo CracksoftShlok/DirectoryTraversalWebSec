@@ -1,7 +1,8 @@
-# Introduction: What is Directory Traversal?
+# Preventing Directory Traversal: Attacks A Developer’s Step-by-Step Security Guide
 
 <img src="https://github.com/CracksoftShlok/DirectoryTraversalWebSec/blob/main/Image.png?raw=true" alt="Alt text" style="width: 100%; height: auto;" />
 
+### Introduction: What is Directory Traversal?
 Directory Traversal, also known as **Path Traversal**, is a critical security vulnerability in web applications. It allows attackers to access files and folders outside the intended directory—like sneaking into the staff-only server room of a hotel when you’re only allowed in the lobby.
 
 This flaw can lead to serious problems such as data leaks, system compromise, and violation of privacy and compliance rules.
